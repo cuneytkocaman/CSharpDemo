@@ -12,3 +12,4 @@ C:\Users\70147\VisualStudio\Demo\Demo2\obj\Debug\net8.0\refint\Demo2.dll
 C:\Users\70147\VisualStudio\Demo\Demo2\obj\Debug\net8.0\Demo2.pdb
 C:\Users\70147\VisualStudio\Demo\Demo2\obj\Debug\net8.0\Demo2.genruntimeconfig.cache
 C:\Users\70147\VisualStudio\Demo\Demo2\obj\Debug\net8.0\ref\Demo2.dll
+C:\Users\70147\VisualStudio\Demo\Demo2\obj\Debug\net8.0\Demo2.sourcelink.json

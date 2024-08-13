@@ -13,11 +13,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\70147\\VisualStudio\\Demo\\ConsoleApp1\\ConsoleApp1.csproj",
-      "projectName": "ConsoleApp1",
-      "projectPath": "C:\\Users\\70147\\VisualStudio\\Demo\\ConsoleApp1\\ConsoleApp1.csproj",
+      "projectUniqueName": "C:\\Users\\70147\\VisualStudio\\Demo\\HataKontrol\\HataKontrol.csproj",
+      "projectName": "HataKontrol",
+      "projectPath": "C:\\Users\\70147\\VisualStudio\\Demo\\HataKontrol\\HataKontrol.csproj",
       "packagesPath": "C:\\Users\\70147\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\70147\\VisualStudio\\Demo\\ConsoleApp1\\obj\\",
+      "outputPath": "C:\\Users\\70147\\VisualStudio\\Demo\\HataKontrol\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "C:\\Users\\70147\\AppData\\Roaming\\NuGet\\NuGet.Config",

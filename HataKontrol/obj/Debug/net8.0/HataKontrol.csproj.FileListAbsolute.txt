@@ -1,0 +1,15 @@
+C:\Users\70147\VisualStudio\Demo\HataKontrol\bin\Debug\net8.0\HataKontrol.exe
+C:\Users\70147\VisualStudio\Demo\HataKontrol\bin\Debug\net8.0\HataKontrol.deps.json
+C:\Users\70147\VisualStudio\Demo\HataKontrol\bin\Debug\net8.0\HataKontrol.runtimeconfig.json
+C:\Users\70147\VisualStudio\Demo\HataKontrol\bin\Debug\net8.0\HataKontrol.dll
+C:\Users\70147\VisualStudio\Demo\HataKontrol\bin\Debug\net8.0\HataKontrol.pdb
+C:\Users\70147\VisualStudio\Demo\HataKontrol\obj\Debug\net8.0\HataKontrol.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\70147\VisualStudio\Demo\HataKontrol\obj\Debug\net8.0\HataKontrol.AssemblyInfoInputs.cache
+C:\Users\70147\VisualStudio\Demo\HataKontrol\obj\Debug\net8.0\HataKontrol.AssemblyInfo.cs
+C:\Users\70147\VisualStudio\Demo\HataKontrol\obj\Debug\net8.0\HataKontrol.csproj.CoreCompileInputs.cache
+C:\Users\70147\VisualStudio\Demo\HataKontrol\obj\Debug\net8.0\HataKontrol.sourcelink.json
+C:\Users\70147\VisualStudio\Demo\HataKontrol\obj\Debug\net8.0\HataKontrol.dll
+C:\Users\70147\VisualStudio\Demo\HataKontrol\obj\Debug\net8.0\refint\HataKontrol.dll
+C:\Users\70147\VisualStudio\Demo\HataKontrol\obj\Debug\net8.0\HataKontrol.pdb
+C:\Users\70147\VisualStudio\Demo\HataKontrol\obj\Debug\net8.0\HataKontrol.genruntimeconfig.cache
+C:\Users\70147\VisualStudio\Demo\HataKontrol\obj\Debug\net8.0\ref\HataKontrol.dll

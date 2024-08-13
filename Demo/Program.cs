@@ -6,7 +6,7 @@ namespace Demo
     {
         static int classSayi; // Class içindeki değişkenlere default değerleri otomatik atanır, ama Main scope'u veya fonksiyon içindeki değişkenlere manuel değer atanmalıdır.
                               // Ayrıca bu değişken global değişkendir.
-                              
+
         static void Main(string[] args)
         {
             Console.WriteLine("Class içindeki bulunan ve değeri atanmamış integer tür: " + classSayi.ToString());
@@ -17,15 +17,15 @@ namespace Demo
             #endregion
 
             #region Tuple değişken. Bir değişkene birden çok değer türü atama işlemi
-            (int a, string b) c = (9, "ebrar"); // Tuple değişken. Bir değişkene birden çok özellik atama işlemidir.
-            Console.WriteLine("Tuple Değişken: " + " int: " + c.a.ToString() + " , string: " + c.b);
+            (int a1, string a2) a3 = (9, "ebrar"); // Tuple değişken. Bir değişkene birden çok özellik atama işlemidir.
+            Console.WriteLine("Tuple Değişken: " + " int: " + a3.a1.ToString() + " , string: " + a3.a2); // a1 ve a2 değişkenleri atandığı a3 değişkeni üzerinden  çağrıldı.
             #endregion
 
             #region Default Keyword
-            bool d = default; // default keyword'ü ile değişken türlerinin varsayılan değerleri geri dödürülür.
-            int e = default; // default(int) olarak da tanımlanır.
-            string f = default;
-            Console.WriteLine("default değer: " + " bool: " +d.ToString() + " , int: " + e.ToString() + " , string: " + f);
+            bool b1 = default; // default keyword'ü ile değişken türlerinin varsayılan değerleri geri dödürülür.
+            int b2 = default; // default(int) olarak da tanımlanır.
+            string b3 = default;
+            Console.WriteLine("default değer: " + " bool: " + b1.ToString() + " , int: " + b2.ToString() + " , string: " + b3);
             #endregion
 
             #region Değeri değiştirilemeyen tür (const)
@@ -36,17 +36,17 @@ namespace Demo
             object adi = "Cuneyt"; // Object tüm türleri (primitive, referans) karşılar. Gönderilen değere, burada string, BOXING denir.
             object objSayi = 19; // Object'in tuttuğu değer int olmasına rağmen matematiksel işlemler yapılamaz. İşlem yapmak için inboxing yapılmalıdır.
             int castSayi = (int)objSayi; // Cast operatörü () ile INBOXING yapıldı. Cast operatörü parantez işaretidir.
-            Console.WriteLine("Inboxing işlemi ile işlem yaptırılan object tür: " + 5* castSayi);
+            Console.WriteLine("Inboxing işlemi ile işlem yaptırılan object tür: " + 5 * castSayi);
             #endregion
 
             #region dynamic
             // dynamic RunTime'da çalışır. Türünü RunTime'da belirler. Uzaktan gelen türü bilinmeyen veriyi elde etmek için kullanılır.
             // var ise compaile anında çalışır, farkı budur.
-            
-            dynamic g = "Sibel";
-            Console.WriteLine(g.GetType());
-            g = 7;
-            Console.WriteLine(g.GetType()); // dynamic karasızdır. RunTime'da çalıştığı için farkı türlere dönüştürülebilir.
+
+            dynamic c1 = "Sibel";
+            Console.WriteLine(c1.GetType());
+            c1 = 7;
+            Console.WriteLine(c1.GetType()); // dynamic karasızdır. RunTime'da çalıştığı için farkı türlere dönüştürülebilir.
             #endregion
 
             #region Tür dönüşümleri. Parse / Convert
@@ -67,11 +67,11 @@ namespace Demo
 
             #region Sayısal Tür Dönüşümü. (Bilinçli ve Bilinçsiz)
 
-            short h = 1987;
-            byte i = (byte)h; // Daha düşük kapasiteli türe dönüştürmek bilinçli dönüşümdür.
-            Console.WriteLine("Bilinçli Tür Dönüşümü: " + i.ToString());
+            short d1 = 1987;
+            byte d2 = (byte)d1; // Daha düşük kapasiteli türe dönüştürmek bilinçli dönüşümdür.
+            Console.WriteLine("Bilinçli Tür Dönüşümü: " + d2.ToString());
 
-            int j = h; // Daha üst kapasiteli türe dönüştürmek bilinçsiz dönüşümdür.
+            int d3 = d1; // Daha üst kapasiteli türe dönüştürmek bilinçsiz dönüşümdür.
 
             //checked // Bilinçli tür dönüşümünde veri kaybı kontrolu checked bloğu ile yapılır. RunTime'da uyarır.
             //{
@@ -82,37 +82,37 @@ namespace Demo
             #endregion
 
             #region Aritmetik Operatörlerle İşlemler
-            int m = 10;
-            double o = 5.5;
-            double sonuc = m + o; // İki farklı türün işleminde küçük türe ait değişken compailer tarafından büyük türe ait değişkene dönüştürülür. Sonuc double döner.
+            int e1 = 10;
+            double e2 = 5.5;
+            double sonuc = e1 + e2; // İki farklı türün işleminde küçük türe ait değişken compailer tarafından büyük türe ait değişkene dönüştürülür. Sonuc double döner.
             Console.WriteLine(sonuc.ToString());
 
-            byte p = 3, r = 87;
-            int s = r - p; // İki byte arasındaki işlem her zaman int olarak döner. (İstisna)
+            byte e3 = 3, e4 = 87;
+            int e5 = e4 - e3; // İki byte arasındaki işlem her zaman int olarak döner. (İstisna)
             #endregion
 
             #region Arttırma(++) Azaltma(--) Operatörleri
-            
-            int t = 5;
-            Console.WriteLine("t++: " + t++); // Önce t değerini döndürür, sonra 1 arttırır. Çıktı 5, bellekte 6
-            Console.WriteLine("t++'nın bellekteki durumu, arttırılmış hali: " + t);
-            Console.WriteLine("++t: " + ++t); // t değerini 1 arttırır, yeni değeri döndürür. Çıktı 7, bellekte 7
 
-            int t1 = 100;
-            int t2 = ++t1;
-            int t3 = t1;
-            ++t2;
-            Console.WriteLine(t1 + " " + t2 + " " + t3);
+            int f1 = 5;
+            Console.WriteLine("t++: " + f1++); // Önce t değerini döndürür, sonra 1 arttırır. Çıktı 5, bellekte 6
+            Console.WriteLine("t++'nın bellekteki durumu, arttırılmış hali: " + f1);
+            Console.WriteLine("++t: " + ++f1); // t değerini 1 arttırır, yeni değeri döndürür. Çıktı 7, bellekte 7
+
+            int f2 = 100;
+            int f3 = ++f2;
+            int f4 = f2;
+            ++f3;
+            Console.WriteLine(f2 + " " + f3 + " " + f4);
             #endregion
 
-            #region Ternanry Operatörü
+            #region Ternanry Operatörü Tek Satırlık İf Else
             bool medeniHal = true;
             string mesaj = medeniHal == true ? "Evlilere kampanya" : "Bekarlara kampanya";
             Console.WriteLine(mesaj);
 
             //Yaşı 25'ten büyük olanlara A, 25 olanlara B, 25'ten büyük olanlara C değeri döndüren Ternary Operatörü
             int yas = 29;
-            string sonuc1 = yas < 25 ? "A"  : (yas == 25 ? "B" : "C");
+            string sonuc1 = yas < 25 ? "A" : (yas == 25 ? "B" : "C");
             Console.WriteLine(sonuc1);
 
             #endregion
@@ -125,67 +125,70 @@ namespace Demo
 
             #region typeof Operatörü
             // Türün/değerin type'ını/türünü verir.
-            Type ty = typeof(int);
-            Console.WriteLine("type: " + ty.Name);
-            Console.WriteLine("Primitive'mi: " + ty.IsPrimitive);
-            Console.WriteLine("Class'mı': " + ty.IsClass);
-            Console.WriteLine("Value Type'mı: " + ty.IsValueType);
+            Type g1 = typeof(int);
+            Console.WriteLine("type: " + g1.Name);
+            Console.WriteLine("Primitive'mi: " + g1.IsPrimitive);
+            Console.WriteLine("Class'mı': " + g1.IsClass);
+            Console.WriteLine("Value Type'mı: " + g1.IsValueType);
             #endregion
 
             #region is Operatörü
             // Boxing'e tabi tutulmuş bir değerin öz türünü öğrenebilmek için kullanılır. True veya false olarak geri değer döndürür.
             // if yapılandırmasında kullanılır.
-            object u = true;
-            Console.WriteLine("is operatörü: " + u is bool); // Değişken boolean'mı diye kontrol edildi.
+            object h1 = true;
+            Console.WriteLine("is operatörü: object h1: " + h1 is bool); // Değişken boolean'mı diye kontrol edildi.
             #endregion
 
             #region is null & is not null Operatörü
 
-            string v = null;
-            Console.WriteLine("is null & is not null: " + v is null); // Değişken null mu değilmi kontrol edildi.
+            string i1 = null;
+            Console.WriteLine("is null & is not null: " + i1 is null); // Değişken null mu değilmi kontrol edildi.
 
             //is null & is not null sadece null olabilen türlerde kullanılır. Yani Referans Türlü Değişkenlerde kullanılır. Değer Türlü Değişkenlerde(value type) kullanılmaz.
             #endregion
 
             #region as Operatörü
-            // Inboxing işlemi yapar. as operatörü tür uygun olmadığı taktride geriye null döndüreceği için null karşılayabilen türle çalışır.Value Type değişkenler ile kullanılmaz.
+            // Inboxing işlemi yapar. as operatörü tür uygun olmadığı taktride geriye null döndüreceği için null karşılayabilen türle çalışır.
+            // Value Type değişkenler ile kullanılmaz.
 
-            object y = "Ahmet";
-            Program sy = y as Program; // Program bir referans türüdür.
-            Console.WriteLine("as Operatörü: " + sy); // null döner
+            object k1 = "Ahmet";
+            Program k2 = k1 as Program; // Program bir referans türüdür.
+            Console.WriteLine("as Operatörü: " + k2); // null döner
             #endregion
 
             #region nullable Operatörü (?)
             // Value Type değişkenlerin null değer alabilmesi için nullable ? operatörünü kullanmalıdır.
 
-            int? z = null;
-            bool? x = null;  // Değişkenler nullable yapıldığı için as, is null ,is not null operatörleri kullanılabilir.
-            Console.WriteLine("nullable: " + x is null);
+            int? l1 = null;
+            bool? l2 = null;  // Değişkenler nullable yapıldığı için as, is null ,is not null operatörleri kullanılabilir.
+            Console.WriteLine("nullable: " + l2 is null);
 
             #endregion
 
             #region Null-Coalescing ?? & Null-Coalescing Assignment Operatörü
             // Değişkenin değerinin null olma durumuna istinaden farklı bir değeri göndermemizi sağlar. Her iki taraftaki değişken aynı türde olmalıdır.
 
-            string q1 = "Selam";
-            string q2 = "";
-            string q3 = null;
+            string m1 = "Selam";
+            string m2 = "";
+            string m3 = null;
 
-            Console.WriteLine("Null olamayan g1 değişkeni: " + q1 ?? "Merhaba");
-            Console.WriteLine("Null olan q2 değişkeni: " + q2 ?? "Hoş geldin");
-            Console.WriteLine("q3 değişkeninin assigment'ten sonraki hali: " + (q3 ??= "Nasılsın")); // q3 değeri null ise Nasılsın yazdır ve değeri q3 değişkenine ata.
+            Console.WriteLine("Null olamayan g1 değişkeni: " + m1 ?? "Merhaba");
+            Console.WriteLine("Null olan q2 değişkeni: " + m2 ?? "Hoş geldin");
+            Console.WriteLine("q3 değişkeninin assigment'ten sonraki hali: " + (m3 ??= "Nasılsın")); // m3 değeri null ise Nasılsın yazdır ve değeri m3 değişkenine ata.
 
-            int? q4 = null; // nullable ile value type değişken null olarak tanımlandı.
-            Console.WriteLine(q4 ??= 9); // assignment ile değer atandı.
+            int? m4 = null; // nullable(?) ile value type değişken null olarak tanımlandı.
+            Console.WriteLine(m4 ??= 9); // assignment ile değer atandı.
             #endregion
 
-            #region Akış Kontrol Mekanizmaları
+            #region AKIŞ KONTROL MEKANİZMALARI
+
             #region Switch-Case (when şartı & goto Keyword'ü)
             // Bir değişkenin değerini sadece eşitlik durumları kontrol ederken kullanılır. Şart sağlanırsa diğer şartlara bakılmaz. Scope'tan çıkılır.
 
             string isim = "Osman";
 
-            switch(isim){
+            switch (isim)
+            {
                 case "Mehmet":
                     Console.WriteLine("Adı Mehmet");
                     break;
@@ -203,8 +206,9 @@ namespace Demo
             // when başka şartları da kontrol etmeye yarar. VE gibi düşünülebilir.
             int tutar = 1000;
 
-            switch (tutar){
-                case 1000 when (3 == 5): 
+            switch (tutar)
+            {
+                case 1000 when (3 == 5):
                     break;
 
                 case 1000 when (3 == 3):
@@ -217,7 +221,7 @@ namespace Demo
 
             switch (no)
             {
-                case 5 :
+                case 5:
                     Console.WriteLine(no * 10);
                     break;
 
@@ -236,7 +240,85 @@ namespace Demo
                     goto case 5; // Birden fazla goto kullanılacaksa birleştirilerek yazılabilir.
             }
             #endregion
+
+            #region Switch Expressions
+
+            int n1 = 5;
+            string isim1 = n1 switch // Tek satırlık switch
+            {
+                3 => "Hilmi", // => ise demek
+                5 => "Veli",
+                7 => "Yasin" // when ile fazladan şart işlemi
+            };
+
+            //Tupple Patterns
+            int n3 = 10, n4 = 20;
+
+            string msg = (n3, n4) switch
+            {
+                (5, 10) => "5 ile 10 değerleri.", // Şart 5 ve 10 ise bu sonucu döndür. Buradaki (5,10) klasik case değerleri
+                (10, 20) => "10 ile 20 değerleri."
+            };
+
+            Console.WriteLine("Tupple Patterns switch: " + msg);
             #endregion
+
+            #region Peş peşe If
+            int o1 = 275; 
+
+            if (o1 > 100 && o1 <= 200)
+            {
+                Console.WriteLine("100 ile 200 arasında");
+            }
+            if (o1 > 200 && o1 <= 300) // Peş peşe if ile yazılırsa iki şartı da sağlamış olur.
+            {
+                Console.WriteLine("200 ile 300 arasında");
+            }
+            if (o1 > 200 && o1 <= 400) // Peş peşe if ile yazılırsa iki şartı da sağlamış olur.
+            {
+                Console.WriteLine("200 ile 400 arasında");
+            }
+            #endregion
+
+            #region Pattern Matching
+            object p1 = "abcde";
+
+            // Type Pattern: Object içindeki bir tipin berlirlenmesinde kullanılan is operatörünün desenleştirilmiş halidir.
+            bool result1 = p1 is string p2;
+            // Console.WriteLine(p2); // Bu yazdırma işlemi hata verir. Sebebi null gelme ihtimali ve string'in bunu karşılayamammasıdır.
+
+            // Constant Pattern: Elimizdeki veriyi sabit bir değer ile karşılaştırabilmemizi sağlar. Eşittire denk gelebilir. is operatörü değer (int, string, long vs) kontrol ediyorsa Constant'tır.
+
+            // Var Pattern: Eldeki veriyi 'var' değişkeni ile elde etmeyi sağlar. var normalde compaile sürecinde çalışır, buradaki var keyword'ü ise runtime sürecinde çalışır.
+
+            bool result2 = p1 is var p3; // Pattern'ın illa if else içinde kullanılması gerekmez. Burada p1 değeri bool'mu diye soruldu ve sonuca göre değeri p3'ye atandı.
+            Console.WriteLine(p1); // p3 değeri 'var' yerine başka bir value type olarak tanıtılsaydı null olma durumundan ötürü hata verecekti.
+                                   // Burada p1'in türü ne olursa olsun 'var' değişkeni karşılayabileceği için ve 'var' null'u da karşıladığı için hata vermeyecektir.
+
+            // Recursive Pattern: Switch-case üzerinde birçok yenilik getirmektedir. Switch bloğunda referans türlü değişkenler de kontrol edilebilmektedir.
+
+            // Relational Pattern: Desenlerde <,>,<=,>= operatörleri kullanabilmekte ve belirli karşılaştırmalar hızlıca yapılabilmektedir.
+            // Switch özü itibari ile sadece eşitlik durumlarını kontrol eder. Relational pattern ile karşılaştırmalar yapılabilir.
+
+            int p4 = 123;
+
+            string result3 = p4 switch
+            {
+                < 50 => "50'den küçük",
+                > 50 => "50'den büyük",
+                50 => "50'ye eşit"
+            };
+
+            Console.WriteLine("Relational Pattern: " + result3);
+
+            // Logical Pattern
+
+            #endregion
+
+            #endregion
+
+
+
         }
     }
 }
