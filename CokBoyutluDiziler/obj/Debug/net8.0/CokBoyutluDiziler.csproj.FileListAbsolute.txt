@@ -1,0 +1,15 @@
+C:\Users\70147\VisualStudio\Demo\CokBoyutluDiziler\bin\Debug\net8.0\CokBoyutluDiziler.exe
+C:\Users\70147\VisualStudio\Demo\CokBoyutluDiziler\bin\Debug\net8.0\CokBoyutluDiziler.deps.json
+C:\Users\70147\VisualStudio\Demo\CokBoyutluDiziler\bin\Debug\net8.0\CokBoyutluDiziler.runtimeconfig.json
+C:\Users\70147\VisualStudio\Demo\CokBoyutluDiziler\bin\Debug\net8.0\CokBoyutluDiziler.dll
+C:\Users\70147\VisualStudio\Demo\CokBoyutluDiziler\bin\Debug\net8.0\CokBoyutluDiziler.pdb
+C:\Users\70147\VisualStudio\Demo\CokBoyutluDiziler\obj\Debug\net8.0\CokBoyutluDiziler.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\70147\VisualStudio\Demo\CokBoyutluDiziler\obj\Debug\net8.0\CokBoyutluDiziler.AssemblyInfoInputs.cache
+C:\Users\70147\VisualStudio\Demo\CokBoyutluDiziler\obj\Debug\net8.0\CokBoyutluDiziler.AssemblyInfo.cs
+C:\Users\70147\VisualStudio\Demo\CokBoyutluDiziler\obj\Debug\net8.0\CokBoyutluDiziler.csproj.CoreCompileInputs.cache
+C:\Users\70147\VisualStudio\Demo\CokBoyutluDiziler\obj\Debug\net8.0\CokBoyutluDiziler.sourcelink.json
+C:\Users\70147\VisualStudio\Demo\CokBoyutluDiziler\obj\Debug\net8.0\CokBoyutluDiziler.dll
+C:\Users\70147\VisualStudio\Demo\CokBoyutluDiziler\obj\Debug\net8.0\refint\CokBoyutluDiziler.dll
+C:\Users\70147\VisualStudio\Demo\CokBoyutluDiziler\obj\Debug\net8.0\CokBoyutluDiziler.pdb
+C:\Users\70147\VisualStudio\Demo\CokBoyutluDiziler\obj\Debug\net8.0\CokBoyutluDiziler.genruntimeconfig.cache
+C:\Users\70147\VisualStudio\Demo\CokBoyutluDiziler\obj\Debug\net8.0\ref\CokBoyutluDiziler.dll

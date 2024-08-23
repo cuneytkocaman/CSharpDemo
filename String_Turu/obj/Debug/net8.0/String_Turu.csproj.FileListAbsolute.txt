@@ -1,0 +1,15 @@
+C:\Users\70147\VisualStudio\Demo\String_Turu\bin\Debug\net8.0\String_Turu.exe
+C:\Users\70147\VisualStudio\Demo\String_Turu\bin\Debug\net8.0\String_Turu.deps.json
+C:\Users\70147\VisualStudio\Demo\String_Turu\bin\Debug\net8.0\String_Turu.runtimeconfig.json
+C:\Users\70147\VisualStudio\Demo\String_Turu\bin\Debug\net8.0\String_Turu.dll
+C:\Users\70147\VisualStudio\Demo\String_Turu\bin\Debug\net8.0\String_Turu.pdb
+C:\Users\70147\VisualStudio\Demo\String_Turu\obj\Debug\net8.0\String_Turu.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\70147\VisualStudio\Demo\String_Turu\obj\Debug\net8.0\String_Turu.AssemblyInfoInputs.cache
+C:\Users\70147\VisualStudio\Demo\String_Turu\obj\Debug\net8.0\String_Turu.AssemblyInfo.cs
+C:\Users\70147\VisualStudio\Demo\String_Turu\obj\Debug\net8.0\String_Turu.csproj.CoreCompileInputs.cache
+C:\Users\70147\VisualStudio\Demo\String_Turu\obj\Debug\net8.0\String_Turu.sourcelink.json
+C:\Users\70147\VisualStudio\Demo\String_Turu\obj\Debug\net8.0\String_Turu.dll
+C:\Users\70147\VisualStudio\Demo\String_Turu\obj\Debug\net8.0\refint\String_Turu.dll
+C:\Users\70147\VisualStudio\Demo\String_Turu\obj\Debug\net8.0\String_Turu.pdb
+C:\Users\70147\VisualStudio\Demo\String_Turu\obj\Debug\net8.0\String_Turu.genruntimeconfig.cache
+C:\Users\70147\VisualStudio\Demo\String_Turu\obj\Debug\net8.0\ref\String_Turu.dll

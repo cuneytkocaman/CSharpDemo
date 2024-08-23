@@ -16,10 +16,14 @@ namespace Demo
             Console.WriteLine("Programatik keyword @: " + @void.ToString());
             #endregion
 
+            Console.WriteLine("----------------------------------------------------------------------------");
+
             #region Tuple değişken. Bir değişkene birden çok değer türü atama işlemi
             (int a1, string a2) a3 = (9, "ebrar"); // Tuple değişken. Bir değişkene birden çok özellik atama işlemidir.
             Console.WriteLine("Tuple Değişken: " + " int: " + a3.a1.ToString() + " , string: " + a3.a2); // a1 ve a2 değişkenleri atandığı a3 değişkeni üzerinden  çağrıldı.
             #endregion
+
+            Console.WriteLine("----------------------------------------------------------------------------");
 
             #region Default Keyword
             bool b1 = default; // default keyword'ü ile değişken türlerinin varsayılan değerleri geri dödürülür.
@@ -28,9 +32,13 @@ namespace Demo
             Console.WriteLine("default değer: " + " bool: " + b1.ToString() + " , int: " + b2.ToString() + " , string: " + b3);
             #endregion
 
+            Console.WriteLine("----------------------------------------------------------------------------");
+
             #region Değeri değiştirilemeyen tür (const)
             const double pi = 3.14d; // const: Değeri değiştirilemeyen, readonly değerlerdir.
             #endregion
+
+            Console.WriteLine("----------------------------------------------------------------------------");
 
             #region Object Tür, Boxing, cast () ile Unboxing
             object adi = "Cuneyt"; // Object tüm türleri (primitive, referans) karşılar. Gönderilen değere, burada string, BOXING denir.
@@ -38,6 +46,8 @@ namespace Demo
             int castSayi = (int)objSayi; // Cast operatörü () ile INBOXING yapıldı. Cast operatörü parantez işaretidir.
             Console.WriteLine("Inboxing işlemi ile işlem yaptırılan object tür: " + 5 * castSayi);
             #endregion
+
+            Console.WriteLine("----------------------------------------------------------------------------");
 
             #region dynamic
             // dynamic RunTime'da çalışır. Türünü RunTime'da belirler. Uzaktan gelen türü bilinmeyen veriyi elde etmek için kullanılır.
@@ -48,6 +58,8 @@ namespace Demo
             c1 = 7;
             Console.WriteLine(c1.GetType()); // dynamic karasızdır. RunTime'da çalıştığı için farkı türlere dönüştürülebilir.
             #endregion
+
+            Console.WriteLine("----------------------------------------------------------------------------");
 
             #region Tür dönüşümleri. Parse / Convert
 
@@ -65,6 +77,8 @@ namespace Demo
             string don3 = Convert.ToString(dondur3);
             #endregion
 
+            Console.WriteLine("----------------------------------------------------------------------------");
+
             #region Sayısal Tür Dönüşümü. (Bilinçli ve Bilinçsiz)
 
             short d1 = 1987;
@@ -81,6 +95,8 @@ namespace Demo
             //}
             #endregion
 
+            Console.WriteLine("----------------------------------------------------------------------------");
+
             #region Aritmetik Operatörlerle İşlemler
             int e1 = 10;
             double e2 = 5.5;
@@ -90,6 +106,8 @@ namespace Demo
             byte e3 = 3, e4 = 87;
             int e5 = e4 - e3; // İki byte arasındaki işlem her zaman int olarak döner. (İstisna)
             #endregion
+
+            Console.WriteLine("----------------------------------------------------------------------------");
 
             #region Arttırma(++) Azaltma(--) Operatörleri
 
@@ -105,6 +123,8 @@ namespace Demo
             Console.WriteLine(f2 + " " + f3 + " " + f4);
             #endregion
 
+            Console.WriteLine("----------------------------------------------------------------------------");
+
             #region Ternanry Operatörü Tek Satırlık İf Else
             bool medeniHal = true;
             string mesaj = medeniHal == true ? "Evlilere kampanya" : "Bekarlara kampanya";
@@ -117,11 +137,15 @@ namespace Demo
 
             #endregion
 
+            Console.WriteLine("----------------------------------------------------------------------------");
+
             #region sizeof Operatörü
             // Türün bellekteki kapladığı alanı byte olarak geriye dödürür.
             Console.WriteLine("int sizeof: " + sizeof(int));
             Console.WriteLine("demical sizeof: " + sizeof(decimal));
             #endregion
+
+            Console.WriteLine("----------------------------------------------------------------------------");
 
             #region typeof Operatörü
             // Türün/değerin type'ını/türünü verir.
@@ -132,12 +156,16 @@ namespace Demo
             Console.WriteLine("Value Type'mı: " + g1.IsValueType);
             #endregion
 
+            Console.WriteLine("----------------------------------------------------------------------------");
+
             #region is Operatörü
             // Boxing'e tabi tutulmuş bir değerin öz türünü öğrenebilmek için kullanılır. True veya false olarak geri değer döndürür.
             // if yapılandırmasında kullanılır.
             object h1 = true;
             Console.WriteLine("is operatörü: object h1: " + h1 is bool); // Değişken boolean'mı diye kontrol edildi.
             #endregion
+
+            Console.WriteLine("----------------------------------------------------------------------------");
 
             #region is null & is not null Operatörü
 
@@ -146,6 +174,8 @@ namespace Demo
 
             //is null & is not null sadece null olabilen türlerde kullanılır. Yani Referans Türlü Değişkenlerde kullanılır. Değer Türlü Değişkenlerde(value type) kullanılmaz.
             #endregion
+
+            Console.WriteLine("----------------------------------------------------------------------------");
 
             #region as Operatörü
             // Inboxing işlemi yapar. as operatörü tür uygun olmadığı taktride geriye null döndüreceği için null karşılayabilen türle çalışır.
@@ -156,6 +186,8 @@ namespace Demo
             Console.WriteLine("as Operatörü: " + k2); // null döner
             #endregion
 
+            Console.WriteLine("----------------------------------------------------------------------------");
+
             #region nullable Operatörü (?)
             // Value Type değişkenlerin null değer alabilmesi için nullable ? operatörünü kullanmalıdır.
 
@@ -164,6 +196,8 @@ namespace Demo
             Console.WriteLine("nullable: " + l2 is null);
 
             #endregion
+
+            Console.WriteLine("----------------------------------------------------------------------------");
 
             #region Null-Coalescing ?? & Null-Coalescing Assignment Operatörü
             // Değişkenin değerinin null olma durumuna istinaden farklı bir değeri göndermemizi sağlar. Her iki taraftaki değişken aynı türde olmalıdır.
@@ -179,6 +213,8 @@ namespace Demo
             int? m4 = null; // nullable(?) ile value type değişken null olarak tanımlandı.
             Console.WriteLine(m4 ??= 9); // assignment ile değer atandı.
             #endregion
+
+            Console.WriteLine("----------------------------------------------------------------------------");
 
             #region AKIŞ KONTROL MEKANİZMALARI
 
@@ -316,8 +352,6 @@ namespace Demo
             #endregion
 
             #endregion
-
-
 
         }
     }

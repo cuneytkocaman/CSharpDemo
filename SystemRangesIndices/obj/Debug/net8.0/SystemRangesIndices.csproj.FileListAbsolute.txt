@@ -1,0 +1,15 @@
+C:\Users\70147\VisualStudio\Demo\SystemRangesIndices\bin\Debug\net8.0\SystemRangesIndices.exe
+C:\Users\70147\VisualStudio\Demo\SystemRangesIndices\bin\Debug\net8.0\SystemRangesIndices.deps.json
+C:\Users\70147\VisualStudio\Demo\SystemRangesIndices\bin\Debug\net8.0\SystemRangesIndices.runtimeconfig.json
+C:\Users\70147\VisualStudio\Demo\SystemRangesIndices\bin\Debug\net8.0\SystemRangesIndices.dll
+C:\Users\70147\VisualStudio\Demo\SystemRangesIndices\bin\Debug\net8.0\SystemRangesIndices.pdb
+C:\Users\70147\VisualStudio\Demo\SystemRangesIndices\obj\Debug\net8.0\SystemRangesIndices.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\70147\VisualStudio\Demo\SystemRangesIndices\obj\Debug\net8.0\SystemRangesIndices.AssemblyInfoInputs.cache
+C:\Users\70147\VisualStudio\Demo\SystemRangesIndices\obj\Debug\net8.0\SystemRangesIndices.AssemblyInfo.cs
+C:\Users\70147\VisualStudio\Demo\SystemRangesIndices\obj\Debug\net8.0\SystemRangesIndices.csproj.CoreCompileInputs.cache
+C:\Users\70147\VisualStudio\Demo\SystemRangesIndices\obj\Debug\net8.0\SystemRangesIndices.sourcelink.json
+C:\Users\70147\VisualStudio\Demo\SystemRangesIndices\obj\Debug\net8.0\SystemRangesIndices.dll
+C:\Users\70147\VisualStudio\Demo\SystemRangesIndices\obj\Debug\net8.0\refint\SystemRangesIndices.dll
+C:\Users\70147\VisualStudio\Demo\SystemRangesIndices\obj\Debug\net8.0\SystemRangesIndices.pdb
+C:\Users\70147\VisualStudio\Demo\SystemRangesIndices\obj\Debug\net8.0\SystemRangesIndices.genruntimeconfig.cache
+C:\Users\70147\VisualStudio\Demo\SystemRangesIndices\obj\Debug\net8.0\ref\SystemRangesIndices.dll

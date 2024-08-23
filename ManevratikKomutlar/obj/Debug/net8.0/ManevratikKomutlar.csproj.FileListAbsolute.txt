@@ -1,0 +1,15 @@
+C:\Users\70147\VisualStudio\Demo\ManevratikKomutlar\bin\Debug\net8.0\ManevratikKomutlar.exe
+C:\Users\70147\VisualStudio\Demo\ManevratikKomutlar\bin\Debug\net8.0\ManevratikKomutlar.deps.json
+C:\Users\70147\VisualStudio\Demo\ManevratikKomutlar\bin\Debug\net8.0\ManevratikKomutlar.runtimeconfig.json
+C:\Users\70147\VisualStudio\Demo\ManevratikKomutlar\bin\Debug\net8.0\ManevratikKomutlar.dll
+C:\Users\70147\VisualStudio\Demo\ManevratikKomutlar\bin\Debug\net8.0\ManevratikKomutlar.pdb
+C:\Users\70147\VisualStudio\Demo\ManevratikKomutlar\obj\Debug\net8.0\ManevratikKomutlar.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\70147\VisualStudio\Demo\ManevratikKomutlar\obj\Debug\net8.0\ManevratikKomutlar.AssemblyInfoInputs.cache
+C:\Users\70147\VisualStudio\Demo\ManevratikKomutlar\obj\Debug\net8.0\ManevratikKomutlar.AssemblyInfo.cs
+C:\Users\70147\VisualStudio\Demo\ManevratikKomutlar\obj\Debug\net8.0\ManevratikKomutlar.csproj.CoreCompileInputs.cache
+C:\Users\70147\VisualStudio\Demo\ManevratikKomutlar\obj\Debug\net8.0\ManevratikKomutlar.sourcelink.json
+C:\Users\70147\VisualStudio\Demo\ManevratikKomutlar\obj\Debug\net8.0\ManevratikKomutlar.dll
+C:\Users\70147\VisualStudio\Demo\ManevratikKomutlar\obj\Debug\net8.0\refint\ManevratikKomutlar.dll
+C:\Users\70147\VisualStudio\Demo\ManevratikKomutlar\obj\Debug\net8.0\ManevratikKomutlar.pdb
+C:\Users\70147\VisualStudio\Demo\ManevratikKomutlar\obj\Debug\net8.0\ManevratikKomutlar.genruntimeconfig.cache
+C:\Users\70147\VisualStudio\Demo\ManevratikKomutlar\obj\Debug\net8.0\ref\ManevratikKomutlar.dll

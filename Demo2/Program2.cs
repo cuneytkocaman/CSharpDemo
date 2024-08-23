@@ -74,6 +74,8 @@ namespace Demo2
 
             Console.WriteLine(islem == '+' ? say1+say2 : (islem == '-' ? say1-say2 : (islem == '*' ? say1*say2 : say1/say2))); // Tupple
             #endregion
+
+            
         }
     }
 }
