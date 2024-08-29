@@ -14,7 +14,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("String_Turu")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+6624275ca1e4b6ea22148f412aac47e585798afa")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+1d2a534725eb0c494a3d548f7d33c16482e43a52")]
 [assembly: System.Reflection.AssemblyProductAttribute("String_Turu")]
 [assembly: System.Reflection.AssemblyTitleAttribute("String_Turu")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]

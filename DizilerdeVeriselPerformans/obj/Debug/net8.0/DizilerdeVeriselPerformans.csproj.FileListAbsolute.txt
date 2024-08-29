@@ -1,0 +1,15 @@
+C:\Users\70147\VisualStudio\Demo\DizilerdeVeriselPerformans\bin\Debug\net8.0\DizilerdeVeriselPerformans.exe
+C:\Users\70147\VisualStudio\Demo\DizilerdeVeriselPerformans\bin\Debug\net8.0\DizilerdeVeriselPerformans.deps.json
+C:\Users\70147\VisualStudio\Demo\DizilerdeVeriselPerformans\bin\Debug\net8.0\DizilerdeVeriselPerformans.runtimeconfig.json
+C:\Users\70147\VisualStudio\Demo\DizilerdeVeriselPerformans\bin\Debug\net8.0\DizilerdeVeriselPerformans.dll
+C:\Users\70147\VisualStudio\Demo\DizilerdeVeriselPerformans\bin\Debug\net8.0\DizilerdeVeriselPerformans.pdb
+C:\Users\70147\VisualStudio\Demo\DizilerdeVeriselPerformans\obj\Debug\net8.0\DizilerdeVeriselPerformans.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\70147\VisualStudio\Demo\DizilerdeVeriselPerformans\obj\Debug\net8.0\DizilerdeVeriselPerformans.AssemblyInfoInputs.cache
+C:\Users\70147\VisualStudio\Demo\DizilerdeVeriselPerformans\obj\Debug\net8.0\DizilerdeVeriselPerformans.AssemblyInfo.cs
+C:\Users\70147\VisualStudio\Demo\DizilerdeVeriselPerformans\obj\Debug\net8.0\DizilerdeVeriselPerformans.csproj.CoreCompileInputs.cache
+C:\Users\70147\VisualStudio\Demo\DizilerdeVeriselPerformans\obj\Debug\net8.0\DizilerdeVeriselPerformans.sourcelink.json
+C:\Users\70147\VisualStudio\Demo\DizilerdeVeriselPerformans\obj\Debug\net8.0\DizilerdeVeriselPerformans.dll
+C:\Users\70147\VisualStudio\Demo\DizilerdeVeriselPerformans\obj\Debug\net8.0\refint\DizilerdeVeriselPerformans.dll
+C:\Users\70147\VisualStudio\Demo\DizilerdeVeriselPerformans\obj\Debug\net8.0\DizilerdeVeriselPerformans.pdb
+C:\Users\70147\VisualStudio\Demo\DizilerdeVeriselPerformans\obj\Debug\net8.0\DizilerdeVeriselPerformans.genruntimeconfig.cache
+C:\Users\70147\VisualStudio\Demo\DizilerdeVeriselPerformans\obj\Debug\net8.0\ref\DizilerdeVeriselPerformans.dll

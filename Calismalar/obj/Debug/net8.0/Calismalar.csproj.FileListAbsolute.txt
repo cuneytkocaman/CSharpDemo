@@ -1,0 +1,15 @@
+C:\Users\70147\VisualStudio\Demo\Calismalar\bin\Debug\net8.0\Calismalar.exe
+C:\Users\70147\VisualStudio\Demo\Calismalar\bin\Debug\net8.0\Calismalar.deps.json
+C:\Users\70147\VisualStudio\Demo\Calismalar\bin\Debug\net8.0\Calismalar.runtimeconfig.json
+C:\Users\70147\VisualStudio\Demo\Calismalar\bin\Debug\net8.0\Calismalar.dll
+C:\Users\70147\VisualStudio\Demo\Calismalar\bin\Debug\net8.0\Calismalar.pdb
+C:\Users\70147\VisualStudio\Demo\Calismalar\obj\Debug\net8.0\Calismalar.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\70147\VisualStudio\Demo\Calismalar\obj\Debug\net8.0\Calismalar.AssemblyInfoInputs.cache
+C:\Users\70147\VisualStudio\Demo\Calismalar\obj\Debug\net8.0\Calismalar.AssemblyInfo.cs
+C:\Users\70147\VisualStudio\Demo\Calismalar\obj\Debug\net8.0\Calismalar.csproj.CoreCompileInputs.cache
+C:\Users\70147\VisualStudio\Demo\Calismalar\obj\Debug\net8.0\Calismalar.sourcelink.json
+C:\Users\70147\VisualStudio\Demo\Calismalar\obj\Debug\net8.0\Calismalar.dll
+C:\Users\70147\VisualStudio\Demo\Calismalar\obj\Debug\net8.0\refint\Calismalar.dll
+C:\Users\70147\VisualStudio\Demo\Calismalar\obj\Debug\net8.0\Calismalar.pdb
+C:\Users\70147\VisualStudio\Demo\Calismalar\obj\Debug\net8.0\Calismalar.genruntimeconfig.cache
+C:\Users\70147\VisualStudio\Demo\Calismalar\obj\Debug\net8.0\ref\Calismalar.dll

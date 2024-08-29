@@ -5,6 +5,7 @@
         static void Main(string[] args)
         {
             // String referans türlü olduğu halde programlama dilinde bir keyword barındıran tek değerdir.
+            // String değişkeninin adı stack'de, değeri ise nesne olarak heap'te tutulur. Değişken adı heap'teki değerini referans eder.
 
             #region Null
             // Bir değişken/nullable/referans null değer alıyorsa herhangi ibr alan tahsis etmemiştir.
@@ -73,8 +74,9 @@
             Console.WriteLine("-------------------------------------------------------------");
 
             #region String Formatlandırma
-            string isim = "Cüneyt", soyisim = "Kocaman", tcNo = "12345678901";
+            string isim = "Cüneyt", soyisim = "Kocaman", tcNo = "12345678901", siparisNo= "987987";
             int yas = 37;
+            int fiyat = 150;
             bool medeniHal = true;
 
             #region + Operatörü
@@ -97,10 +99,46 @@
             Console.WriteLine("-------------------------------------------------------------");
 
             #region $(String.Interpolation)
+
             Console.WriteLine("$ String.Interpolation ile Formatlandırma");
-            Console.WriteLine($"TC No: {tcNo} olan {isim} {soyisim} şahsın bilgileri | Yaş: {yas} | Medeni Hal: {(medeniHal ? "Evli" : "Bekar" )}");
+            Console.WriteLine($"TC No: {tcNo} olan {isim} {soyisim} şahsın bilgileri | Yaş: {yas} | Medeni Hal: {(medeniHal ? "Evli" : "Bekar")}");
+
             #endregion
 
+            #endregion
+
+            Console.WriteLine("-------------------------------------------------------------");
+
+            #region Kaçış (Escape) karakterleri (\)
+            Console.WriteLine("\" Kaçış karakteri (\\) kullanıldı. \"");
+            Console.WriteLine('\'');
+            Console.WriteLine("\a"); // \a: Bip sesi çıkarır.
+            Console.WriteLine("İsim\tSoyisim\tAdres"); // Tab boşluğu bırakır.
+            // \n: Metinsel olarak bir alt satıra geçer.
+            #endregion
+
+            Console.WriteLine("-------------------------------------------------------------");
+
+            #region Verbatim Operatörü (@)
+            string metin2 = @"hava çok ""güzel"""; // Verbatim operatörü koyulduğunda, kaçış operatörü kullanılması gereken yerde karakter kendisi ile ezilir.
+
+            string metin3 = @"String 
+                            Türlerde 
+                            (Verbatim Strings)
+                            Operatörü Kullanım Durumu"; // Normalde alt satura geçildiğinde satır sonuna + operatörü koyar, verbatim ile gerek kalmaz.
+            #endregion
+
+            Console.WriteLine("-------------------------------------------------------------");
+
+            #region String Interpolation ile Verbatim Birlikteliği
+            // @ operatörü ile $ operatörü birlikte kullanılıyorsa önce @, sonra $ kullanılmalıdır.
+
+            string mailMessage = 
+$@"Merhaba {isim} {soyisim} 
+{siparisNo} nolu sipariş talebiniz tarafımızda alınmıştır.
+Fiyat: {fiyat}";
+
+            Console.WriteLine("String Interpolation ile Verbatim Birlikteliği: \n" + mailMessage);
             #endregion
         }
     }

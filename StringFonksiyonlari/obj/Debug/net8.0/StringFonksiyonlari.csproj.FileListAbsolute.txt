@@ -1,0 +1,15 @@
+C:\Users\70147\VisualStudio\Demo\StringFonksiyonlari\bin\Debug\net8.0\StringFonksiyonlari.exe
+C:\Users\70147\VisualStudio\Demo\StringFonksiyonlari\bin\Debug\net8.0\StringFonksiyonlari.deps.json
+C:\Users\70147\VisualStudio\Demo\StringFonksiyonlari\bin\Debug\net8.0\StringFonksiyonlari.runtimeconfig.json
+C:\Users\70147\VisualStudio\Demo\StringFonksiyonlari\bin\Debug\net8.0\StringFonksiyonlari.dll
+C:\Users\70147\VisualStudio\Demo\StringFonksiyonlari\bin\Debug\net8.0\StringFonksiyonlari.pdb
+C:\Users\70147\VisualStudio\Demo\StringFonksiyonlari\obj\Debug\net8.0\StringFonksiyonlari.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\70147\VisualStudio\Demo\StringFonksiyonlari\obj\Debug\net8.0\StringFonksiyonlari.AssemblyInfoInputs.cache
+C:\Users\70147\VisualStudio\Demo\StringFonksiyonlari\obj\Debug\net8.0\StringFonksiyonlari.AssemblyInfo.cs
+C:\Users\70147\VisualStudio\Demo\StringFonksiyonlari\obj\Debug\net8.0\StringFonksiyonlari.csproj.CoreCompileInputs.cache
+C:\Users\70147\VisualStudio\Demo\StringFonksiyonlari\obj\Debug\net8.0\StringFonksiyonlari.sourcelink.json
+C:\Users\70147\VisualStudio\Demo\StringFonksiyonlari\obj\Debug\net8.0\StringFonksiyonlari.dll
+C:\Users\70147\VisualStudio\Demo\StringFonksiyonlari\obj\Debug\net8.0\refint\StringFonksiyonlari.dll
+C:\Users\70147\VisualStudio\Demo\StringFonksiyonlari\obj\Debug\net8.0\StringFonksiyonlari.pdb
+C:\Users\70147\VisualStudio\Demo\StringFonksiyonlari\obj\Debug\net8.0\StringFonksiyonlari.genruntimeconfig.cache
+C:\Users\70147\VisualStudio\Demo\StringFonksiyonlari\obj\Debug\net8.0\ref\StringFonksiyonlari.dll

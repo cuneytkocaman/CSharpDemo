@@ -3,12 +3,8 @@
   "WorkspaceRootPath": "C:\\Users\\70147\\VisualStudio\\Demo\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{FD5EC74B-3067-4C4E-B931-FDFF1BFB8B37}|String_Turu\\String_Turu.csproj|c:\\users\\70147\\visualstudio\\demo\\string_turu\\stringtur.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{FD5EC74B-3067-4C4E-B931-FDFF1BFB8B37}|String_Turu\\String_Turu.csproj|solutionrelative:string_turu\\stringtur.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{4AB2175B-04F0-43F7-ABDE-44C05CD204F7}|Demo\\Demo.csproj|c:\\users\\70147\\visualstudio\\demo\\demo\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{4AB2175B-04F0-43F7-ABDE-44C05CD204F7}|Demo\\Demo.csproj|solutionrelative:demo\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{C4ED737F-2BDA-445C-8637-14DC0FE2C16D}|DizilerdeVeriselPerformans\\DizilerdeVeriselPerformans.csproj|c:\\users\\70147\\visualstudio\\demo\\dizilerdeveriselperformans\\dizilerdeveriselperf.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C4ED737F-2BDA-445C-8637-14DC0FE2C16D}|DizilerdeVeriselPerformans\\DizilerdeVeriselPerformans.csproj|solutionrelative:dizilerdeveriselperformans\\dizilerdeveriselperf.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     }
   ],
   "DocumentGroupContainers": [
@@ -18,32 +14,19 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 1,
+          "SelectedChildIndex": 0,
           "Children": [
             {
               "$type": "Document",
-              "DocumentIndex": 1,
-              "Title": "Program.cs",
-              "DocumentMoniker": "C:\\Users\\70147\\VisualStudio\\Demo\\Demo\\Program.cs",
-              "RelativeDocumentMoniker": "Demo\\Program.cs",
-              "ToolTip": "C:\\Users\\70147\\VisualStudio\\Demo\\Demo\\Program.cs",
-              "RelativeToolTip": "Demo\\Program.cs",
-              "ViewState": "AgIAABkAAAAAAAAAAAAgwAAAAAAAAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-08-22T10:50:02.978Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
               "DocumentIndex": 0,
-              "Title": "StringTur.cs",
-              "DocumentMoniker": "C:\\Users\\70147\\VisualStudio\\Demo\\String_Turu\\StringTur.cs",
-              "RelativeDocumentMoniker": "String_Turu\\StringTur.cs",
-              "ToolTip": "C:\\Users\\70147\\VisualStudio\\Demo\\String_Turu\\StringTur.cs",
-              "RelativeToolTip": "String_Turu\\StringTur.cs",
-              "ViewState": "AgIAABEAAAAAAAAAAAAmwCgAAAAAAAAAAAAAAA==",
+              "Title": "DizilerdeVeriselPerf.cs",
+              "DocumentMoniker": "C:\\Users\\70147\\VisualStudio\\Demo\\DizilerdeVeriselPerformans\\DizilerdeVeriselPerf.cs",
+              "RelativeDocumentMoniker": "DizilerdeVeriselPerformans\\DizilerdeVeriselPerf.cs",
+              "ToolTip": "C:\\Users\\70147\\VisualStudio\\Demo\\DizilerdeVeriselPerformans\\DizilerdeVeriselPerf.cs*",
+              "RelativeToolTip": "DizilerdeVeriselPerformans\\DizilerdeVeriselPerf.cs*",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABIAAAAmAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-08-22T07:51:33.484Z",
+              "WhenOpened": "2024-08-29T08:02:58.396Z",
               "EditorCaption": ""
             }
           ]
