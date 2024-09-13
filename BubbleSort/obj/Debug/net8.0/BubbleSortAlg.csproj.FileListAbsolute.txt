@@ -1,0 +1,15 @@
+C:\Users\70147\VisualStudio\Demo\BubbleSort\bin\Debug\net8.0\BubbleSortAlg.exe
+C:\Users\70147\VisualStudio\Demo\BubbleSort\bin\Debug\net8.0\BubbleSortAlg.deps.json
+C:\Users\70147\VisualStudio\Demo\BubbleSort\bin\Debug\net8.0\BubbleSortAlg.runtimeconfig.json
+C:\Users\70147\VisualStudio\Demo\BubbleSort\bin\Debug\net8.0\BubbleSortAlg.dll
+C:\Users\70147\VisualStudio\Demo\BubbleSort\bin\Debug\net8.0\BubbleSortAlg.pdb
+C:\Users\70147\VisualStudio\Demo\BubbleSort\obj\Debug\net8.0\BubbleSortAlg.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\70147\VisualStudio\Demo\BubbleSort\obj\Debug\net8.0\BubbleSortAlg.AssemblyInfoInputs.cache
+C:\Users\70147\VisualStudio\Demo\BubbleSort\obj\Debug\net8.0\BubbleSortAlg.AssemblyInfo.cs
+C:\Users\70147\VisualStudio\Demo\BubbleSort\obj\Debug\net8.0\BubbleSortAlg.csproj.CoreCompileInputs.cache
+C:\Users\70147\VisualStudio\Demo\BubbleSort\obj\Debug\net8.0\BubbleSortAlg.sourcelink.json
+C:\Users\70147\VisualStudio\Demo\BubbleSort\obj\Debug\net8.0\BubbleSortAlg.dll
+C:\Users\70147\VisualStudio\Demo\BubbleSort\obj\Debug\net8.0\refint\BubbleSortAlg.dll
+C:\Users\70147\VisualStudio\Demo\BubbleSort\obj\Debug\net8.0\BubbleSortAlg.pdb
+C:\Users\70147\VisualStudio\Demo\BubbleSort\obj\Debug\net8.0\BubbleSortAlg.genruntimeconfig.cache
+C:\Users\70147\VisualStudio\Demo\BubbleSort\obj\Debug\net8.0\ref\BubbleSortAlg.dll

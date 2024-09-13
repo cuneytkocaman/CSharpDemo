@@ -1,0 +1,15 @@
+C:\Users\70147\VisualStudio\Demo\Koleksiyonlar\bin\Debug\net8.0\Koleksiyonlar.exe
+C:\Users\70147\VisualStudio\Demo\Koleksiyonlar\bin\Debug\net8.0\Koleksiyonlar.deps.json
+C:\Users\70147\VisualStudio\Demo\Koleksiyonlar\bin\Debug\net8.0\Koleksiyonlar.runtimeconfig.json
+C:\Users\70147\VisualStudio\Demo\Koleksiyonlar\bin\Debug\net8.0\Koleksiyonlar.dll
+C:\Users\70147\VisualStudio\Demo\Koleksiyonlar\bin\Debug\net8.0\Koleksiyonlar.pdb
+C:\Users\70147\VisualStudio\Demo\Koleksiyonlar\obj\Debug\net8.0\Koleksiyonlar.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\70147\VisualStudio\Demo\Koleksiyonlar\obj\Debug\net8.0\Koleksiyonlar.AssemblyInfoInputs.cache
+C:\Users\70147\VisualStudio\Demo\Koleksiyonlar\obj\Debug\net8.0\Koleksiyonlar.AssemblyInfo.cs
+C:\Users\70147\VisualStudio\Demo\Koleksiyonlar\obj\Debug\net8.0\Koleksiyonlar.csproj.CoreCompileInputs.cache
+C:\Users\70147\VisualStudio\Demo\Koleksiyonlar\obj\Debug\net8.0\Koleksiyonlar.sourcelink.json
+C:\Users\70147\VisualStudio\Demo\Koleksiyonlar\obj\Debug\net8.0\Koleksiyonlar.dll
+C:\Users\70147\VisualStudio\Demo\Koleksiyonlar\obj\Debug\net8.0\refint\Koleksiyonlar.dll
+C:\Users\70147\VisualStudio\Demo\Koleksiyonlar\obj\Debug\net8.0\Koleksiyonlar.pdb
+C:\Users\70147\VisualStudio\Demo\Koleksiyonlar\obj\Debug\net8.0\Koleksiyonlar.genruntimeconfig.cache
+C:\Users\70147\VisualStudio\Demo\Koleksiyonlar\obj\Debug\net8.0\ref\Koleksiyonlar.dll

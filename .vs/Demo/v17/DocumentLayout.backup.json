@@ -3,8 +3,16 @@
   "WorkspaceRootPath": "C:\\Users\\70147\\VisualStudio\\Demo\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{C4ED737F-2BDA-445C-8637-14DC0FE2C16D}|DizilerdeVeriselPerformans\\DizilerdeVeriselPerformans.csproj|c:\\users\\70147\\visualstudio\\demo\\dizilerdeveriselperformans\\dizilerdeveriselperf.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{C4ED737F-2BDA-445C-8637-14DC0FE2C16D}|DizilerdeVeriselPerformans\\DizilerdeVeriselPerformans.csproj|solutionrelative:dizilerdeveriselperformans\\dizilerdeveriselperf.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{4B4977C1-0C15-499D-A4B2-1638242CEB31}|Metotlar\\Metotlar.csproj|c:\\users\\70147\\visualstudio\\demo\\metotlar\\metot.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{4B4977C1-0C15-499D-A4B2-1638242CEB31}|Metotlar\\Metotlar.csproj|solutionrelative:metotlar\\metot.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1837A6A7-F0D5-49E6-A90C-4DDD747D6540}|BubbleSort\\BubbleSortAlg.csproj|c:\\users\\70147\\visualstudio\\demo\\bubblesort\\bubblesort.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{1837A6A7-F0D5-49E6-A90C-4DDD747D6540}|BubbleSort\\BubbleSortAlg.csproj|solutionrelative:bubblesort\\bubblesort.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{FD5EC74B-3067-4C4E-B931-FDFF1BFB8B37}|String_Turu\\String_Turu.csproj|c:\\users\\70147\\visualstudio\\demo\\string_turu\\stringtur.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{FD5EC74B-3067-4C4E-B931-FDFF1BFB8B37}|String_Turu\\String_Turu.csproj|solutionrelative:string_turu\\stringtur.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     }
   ],
   "DocumentGroupContainers": [
@@ -14,19 +22,45 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 0,
+          "SelectedChildIndex": 2,
           "Children": [
             {
               "$type": "Document",
-              "DocumentIndex": 0,
-              "Title": "DizilerdeVeriselPerf.cs",
-              "DocumentMoniker": "C:\\Users\\70147\\VisualStudio\\Demo\\DizilerdeVeriselPerformans\\DizilerdeVeriselPerf.cs",
-              "RelativeDocumentMoniker": "DizilerdeVeriselPerformans\\DizilerdeVeriselPerf.cs",
-              "ToolTip": "C:\\Users\\70147\\VisualStudio\\Demo\\DizilerdeVeriselPerformans\\DizilerdeVeriselPerf.cs*",
-              "RelativeToolTip": "DizilerdeVeriselPerformans\\DizilerdeVeriselPerf.cs*",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAABIAAAAmAAAAAAAAAA==",
+              "DocumentIndex": 2,
+              "Title": "StringTur.cs",
+              "DocumentMoniker": "C:\\Users\\70147\\VisualStudio\\Demo\\String_Turu\\StringTur.cs",
+              "RelativeDocumentMoniker": "String_Turu\\StringTur.cs",
+              "ToolTip": "C:\\Users\\70147\\VisualStudio\\Demo\\String_Turu\\StringTur.cs",
+              "RelativeToolTip": "String_Turu\\StringTur.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-08-29T08:02:58.396Z",
+              "WhenOpened": "2024-09-12T09:27:40.531Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "BubbleSort.cs",
+              "DocumentMoniker": "C:\\Users\\70147\\VisualStudio\\Demo\\BubbleSort\\BubbleSort.cs",
+              "RelativeDocumentMoniker": "BubbleSort\\BubbleSort.cs",
+              "ToolTip": "C:\\Users\\70147\\VisualStudio\\Demo\\BubbleSort\\BubbleSort.cs",
+              "RelativeToolTip": "BubbleSort\\BubbleSort.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABwAAAAkAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-12T09:05:54.026Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Metot.cs",
+              "DocumentMoniker": "C:\\Users\\70147\\VisualStudio\\Demo\\Metotlar\\Metot.cs",
+              "RelativeDocumentMoniker": "Metotlar\\Metot.cs",
+              "ToolTip": "C:\\Users\\70147\\VisualStudio\\Demo\\Metotlar\\Metot.cs*",
+              "RelativeToolTip": "Metotlar\\Metot.cs*",
+              "ViewState": "AgIAAAIAAAAAAAAAAAA3wB4AAAAjAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-11T08:56:46.662Z",
               "EditorCaption": ""
             }
           ]

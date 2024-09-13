@@ -43,7 +43,7 @@ namespace Demo
             #region Object Tür, Boxing, cast () ile Unboxing
             object adi = "Cuneyt"; // Object tüm türleri (primitive, referans) karşılar. Gönderilen değere, burada string, BOXING denir.
             object objSayi = 19; // Object'in tuttuğu değer int olmasına rağmen matematiksel işlemler yapılamaz. İşlem yapmak için inboxing yapılmalıdır.
-            int castSayi = (int)objSayi; // Cast operatörü () ile INBOXING yapıldı. Cast operatörü parantez işaretidir.
+            int castSayi = (int)objSayi; // Cast operatörü () ile INBOXING yapılır. Cast operatörü parantez işaretidir.
             Console.WriteLine("Inboxing işlemi ile işlem yaptırılan object tür: " + 5 * castSayi);
             #endregion
 
@@ -168,11 +168,11 @@ namespace Demo
             Console.WriteLine("----------------------------------------------------------------------------");
 
             #region is null & is not null Operatörü
+            //is null & is not null sadece null olabilen türlerde kullanılır. Yani Referans Türlü Değişkenlerde kullanılır. Değer Türlü Değişkenlerde(value type) kullanılmaz.
 
             string i1 = null;
             Console.WriteLine("is null & is not null: " + i1 is null); // Değişken null mu değilmi kontrol edildi.
 
-            //is null & is not null sadece null olabilen türlerde kullanılır. Yani Referans Türlü Değişkenlerde kullanılır. Değer Türlü Değişkenlerde(value type) kullanılmaz.
             #endregion
 
             Console.WriteLine("----------------------------------------------------------------------------");

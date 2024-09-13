@@ -1,0 +1,15 @@
+C:\Users\70147\VisualStudio\Demo\Iterasyon\bin\Debug\net8.0\Iterasyon.exe
+C:\Users\70147\VisualStudio\Demo\Iterasyon\bin\Debug\net8.0\Iterasyon.deps.json
+C:\Users\70147\VisualStudio\Demo\Iterasyon\bin\Debug\net8.0\Iterasyon.runtimeconfig.json
+C:\Users\70147\VisualStudio\Demo\Iterasyon\bin\Debug\net8.0\Iterasyon.dll
+C:\Users\70147\VisualStudio\Demo\Iterasyon\bin\Debug\net8.0\Iterasyon.pdb
+C:\Users\70147\VisualStudio\Demo\Iterasyon\obj\Debug\net8.0\Iterasyon.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\70147\VisualStudio\Demo\Iterasyon\obj\Debug\net8.0\Iterasyon.AssemblyInfoInputs.cache
+C:\Users\70147\VisualStudio\Demo\Iterasyon\obj\Debug\net8.0\Iterasyon.AssemblyInfo.cs
+C:\Users\70147\VisualStudio\Demo\Iterasyon\obj\Debug\net8.0\Iterasyon.csproj.CoreCompileInputs.cache
+C:\Users\70147\VisualStudio\Demo\Iterasyon\obj\Debug\net8.0\Iterasyon.sourcelink.json
+C:\Users\70147\VisualStudio\Demo\Iterasyon\obj\Debug\net8.0\Iterasyon.dll
+C:\Users\70147\VisualStudio\Demo\Iterasyon\obj\Debug\net8.0\refint\Iterasyon.dll
+C:\Users\70147\VisualStudio\Demo\Iterasyon\obj\Debug\net8.0\Iterasyon.pdb
+C:\Users\70147\VisualStudio\Demo\Iterasyon\obj\Debug\net8.0\Iterasyon.genruntimeconfig.cache
+C:\Users\70147\VisualStudio\Demo\Iterasyon\obj\Debug\net8.0\ref\Iterasyon.dll

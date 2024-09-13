@@ -1,0 +1,15 @@
+C:\Users\70147\VisualStudio\Demo\RegularExpression\bin\Debug\net8.0\RegularExpression.exe
+C:\Users\70147\VisualStudio\Demo\RegularExpression\bin\Debug\net8.0\RegularExpression.deps.json
+C:\Users\70147\VisualStudio\Demo\RegularExpression\bin\Debug\net8.0\RegularExpression.runtimeconfig.json
+C:\Users\70147\VisualStudio\Demo\RegularExpression\bin\Debug\net8.0\RegularExpression.dll
+C:\Users\70147\VisualStudio\Demo\RegularExpression\bin\Debug\net8.0\RegularExpression.pdb
+C:\Users\70147\VisualStudio\Demo\RegularExpression\obj\Debug\net8.0\RegularExpression.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\70147\VisualStudio\Demo\RegularExpression\obj\Debug\net8.0\RegularExpression.AssemblyInfoInputs.cache
+C:\Users\70147\VisualStudio\Demo\RegularExpression\obj\Debug\net8.0\RegularExpression.AssemblyInfo.cs
+C:\Users\70147\VisualStudio\Demo\RegularExpression\obj\Debug\net8.0\RegularExpression.csproj.CoreCompileInputs.cache
+C:\Users\70147\VisualStudio\Demo\RegularExpression\obj\Debug\net8.0\RegularExpression.sourcelink.json
+C:\Users\70147\VisualStudio\Demo\RegularExpression\obj\Debug\net8.0\RegularExpression.dll
+C:\Users\70147\VisualStudio\Demo\RegularExpression\obj\Debug\net8.0\refint\RegularExpression.dll
+C:\Users\70147\VisualStudio\Demo\RegularExpression\obj\Debug\net8.0\RegularExpression.pdb
+C:\Users\70147\VisualStudio\Demo\RegularExpression\obj\Debug\net8.0\RegularExpression.genruntimeconfig.cache
+C:\Users\70147\VisualStudio\Demo\RegularExpression\obj\Debug\net8.0\ref\RegularExpression.dll

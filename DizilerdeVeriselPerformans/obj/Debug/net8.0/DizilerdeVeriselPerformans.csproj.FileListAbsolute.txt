@@ -13,3 +13,6 @@ C:\Users\70147\VisualStudio\Demo\DizilerdeVeriselPerformans\obj\Debug\net8.0\ref
 C:\Users\70147\VisualStudio\Demo\DizilerdeVeriselPerformans\obj\Debug\net8.0\DizilerdeVeriselPerformans.pdb
 C:\Users\70147\VisualStudio\Demo\DizilerdeVeriselPerformans\obj\Debug\net8.0\DizilerdeVeriselPerformans.genruntimeconfig.cache
 C:\Users\70147\VisualStudio\Demo\DizilerdeVeriselPerformans\obj\Debug\net8.0\ref\DizilerdeVeriselPerformans.dll
+C:\Users\70147\VisualStudio\Demo\DizilerdeVeriselPerformans\bin\Debug\net8.0\Microsoft.Extensions.Primitives.dll
+C:\Users\70147\VisualStudio\Demo\DizilerdeVeriselPerformans\obj\Debug\net8.0\DizilerdeVeriselPerformans.csproj.AssemblyReference.cache
+C:\Users\70147\VisualStudio\Demo\DizilerdeVeriselPerformans\obj\Debug\net8.0\Dizilerd.0717EA58.Up2Date

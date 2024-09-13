@@ -1,0 +1,15 @@
+C:\Users\70147\VisualStudio\Demo\Hazir_Kutuphaneler\obj\Debug\net8.0\Hazir_Kutuphaneler.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\70147\VisualStudio\Demo\Hazir_Kutuphaneler\obj\Debug\net8.0\Hazir_Kutuphaneler.AssemblyInfoInputs.cache
+C:\Users\70147\VisualStudio\Demo\Hazir_Kutuphaneler\obj\Debug\net8.0\Hazir_Kutuphaneler.AssemblyInfo.cs
+C:\Users\70147\VisualStudio\Demo\Hazir_Kutuphaneler\obj\Debug\net8.0\Hazir_Kutuphaneler.csproj.CoreCompileInputs.cache
+C:\Users\70147\VisualStudio\Demo\Hazir_Kutuphaneler\obj\Debug\net8.0\Hazir_Kutuphaneler.sourcelink.json
+C:\Users\70147\VisualStudio\Demo\Hazir_Kutuphaneler\bin\Debug\net8.0\Hazir_Kutuphaneler.exe
+C:\Users\70147\VisualStudio\Demo\Hazir_Kutuphaneler\bin\Debug\net8.0\Hazir_Kutuphaneler.deps.json
+C:\Users\70147\VisualStudio\Demo\Hazir_Kutuphaneler\bin\Debug\net8.0\Hazir_Kutuphaneler.runtimeconfig.json
+C:\Users\70147\VisualStudio\Demo\Hazir_Kutuphaneler\bin\Debug\net8.0\Hazir_Kutuphaneler.dll
+C:\Users\70147\VisualStudio\Demo\Hazir_Kutuphaneler\bin\Debug\net8.0\Hazir_Kutuphaneler.pdb
+C:\Users\70147\VisualStudio\Demo\Hazir_Kutuphaneler\obj\Debug\net8.0\Hazir_Kutuphaneler.dll
+C:\Users\70147\VisualStudio\Demo\Hazir_Kutuphaneler\obj\Debug\net8.0\refint\Hazir_Kutuphaneler.dll
+C:\Users\70147\VisualStudio\Demo\Hazir_Kutuphaneler\obj\Debug\net8.0\Hazir_Kutuphaneler.pdb
+C:\Users\70147\VisualStudio\Demo\Hazir_Kutuphaneler\obj\Debug\net8.0\Hazir_Kutuphaneler.genruntimeconfig.cache
+C:\Users\70147\VisualStudio\Demo\Hazir_Kutuphaneler\obj\Debug\net8.0\ref\Hazir_Kutuphaneler.dll

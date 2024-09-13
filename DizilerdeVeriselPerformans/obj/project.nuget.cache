@@ -1,8 +1,10 @@
 {
   "version": 2,
-  "dgSpecHash": "rPgOiF7o6Ts=",
+  "dgSpecHash": "UORHp8nRnNE=",
   "success": true,
   "projectFilePath": "C:\\Users\\70147\\VisualStudio\\Demo\\DizilerdeVeriselPerformans\\DizilerdeVeriselPerformans.csproj",
-  "expectedPackageFiles": [],
+  "expectedPackageFiles": [
+    "C:\\Users\\70147\\.nuget\\packages\\microsoft.extensions.primitives\\8.0.0\\microsoft.extensions.primitives.8.0.0.nupkg.sha512"
+  ],
   "logs": []
 }
